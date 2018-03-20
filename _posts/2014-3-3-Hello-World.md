@@ -3,7 +3,7 @@ layout: post
 title: Welcome!
 ---
 
-Here you can find the latest Lorteije publications and lab updates, plus a link to [the Neurographics platform] (https://http://neurographics.nl/)
+Here you can find the latest Lorteije publications and lab updates, plus a link to [the Neurographics platform] (ttp://neurographics.nl/)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 
