@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about the lab.
 
-### More Information
+### Decisions, from a synaptic and cellular perspective
 
-A place to include any other types of information that you'd like to include about yourself.
+we aim to find how cellular properties contribute to cognitive functions, e.g. perception and decision making
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+j.a.m.lorteije (at) uva (dot) nl
